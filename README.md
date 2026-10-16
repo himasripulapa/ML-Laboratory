@@ -17,7 +17,7 @@ Python, Streamlit, scikit-learn, pandas, NumPy, Matplotlib
 ## How to run
 ```
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run appp.py
 ```
 Then open http://localhost:8501 in your browser.
 
