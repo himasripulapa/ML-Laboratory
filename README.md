@@ -36,5 +36,4 @@ Then open http://localhost:8501 in your browser.
 | SVM | Finds the widest-margin boundary between classes |
 | Logistic Regression | Draws a straight line and outputs probabilities |
 
-## Screenshots
-(Add your app screenshots here)
+
