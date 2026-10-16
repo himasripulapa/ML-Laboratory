@@ -35,5 +35,3 @@ Then open http://localhost:8501 in your browser.
 | Decision Tree | Asks a sequence of yes/no questions on features |
 | SVM | Finds the widest-margin boundary between classes |
 | Logistic Regression | Draws a straight line and outputs probabilities |
-
-
